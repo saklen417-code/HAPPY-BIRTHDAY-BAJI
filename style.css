@@ -1134,3 +1134,32 @@ button {
         font-size: 40px;
     }
 }
+/* =========================
+   FOOTER
+========================= */
+
+footer {
+    width: 100%;
+    padding: 28px 20px;
+    text-align: center;
+
+    font-family: "Poppins", sans-serif;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+
+    color: #98677c;
+
+    background: rgba(255, 255, 255, 0.55);
+
+    border-top: 1px solid rgba(200, 79, 123, 0.1);
+
+    position: relative;
+    z-index: 5;
+}
+
+footer b {
+    font-family: "Great Vibes", cursive;
+    font-size: 24px;
+    font-weight: 400;
+    color: #c84f7b;
+}
